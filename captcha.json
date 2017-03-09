@@ -1,0 +1,25 @@
+{
+    "captchas": [
+        {
+            "type": "3D captcha",
+            "captcha_url": "https://raw.githubusercontent.com/emiliosansano/examen/master/3d.png",
+            "value": "lllad"
+        },
+        {
+            "type": "Distorted captcha",
+            "captcha_url": "https://raw.githubusercontent.com/emiliosansano/examen/master/distorted.png",
+            "value": "manauls Lake" 
+        },
+        {
+            "type": "Mathematical captcha",
+            "captcha_url": "https://raw.githubusercontent.com/emiliosansano/examen/master/math.png",
+            "value": "4" 
+        },
+        {
+            "type": "Text captcha",
+            "captcha_url": "https://raw.githubusercontent.com/emiliosansano/examen/master/text.png",
+            "value": "XYHNXCDR" 
+        }
+    ],
+    "message": "Prove that you're a human!"
+}
