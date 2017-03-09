@@ -3,7 +3,7 @@
         {
             "type": "3D captcha",
             "captcha_url": "https://raw.githubusercontent.com/emiliosansano/examen/master/3d.png",
-            "value": "lllad"
+            "value": "lllab"
         },
         {
             "type": "Distorted captcha",
